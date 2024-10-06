@@ -4,11 +4,8 @@
 
 ## Información Personal 
 **Nombre Completo**: Juan Pablo Marquez
-
 **Correo Electrónico**: jhonpablomarquez@gmail.com
-
 **Teléfono**: +573177329407
-
 **Dirrección**: Calle 8, chamita, Merida
 
 ## Educación 
