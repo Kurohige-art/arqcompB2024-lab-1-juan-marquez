@@ -3,10 +3,10 @@
 # Currículum de [Juan Pablo Marquez]
 
 ## Información Personal 
-_ **Nombre Completo**: [Juan Pablo Marquez]
-_ **Correo Electrónico**: [jhonpablomarquez@gmail.com]
-_ **Teléfono**: [+573177329407]
-_ **Dirrección**: [Calle 8, chamita, Merida]
+_**Nombre Completo**: [Juan Pablo Marquez]
+_**Correo Electrónico**: [jhonpablomarquez@gmail.com]
+_**Teléfono**: [+573177329407]
+_**Dirrección**: [Calle 8, chamita, Merida]
 
 ## Educación 
 _ **Institución**: [Unidad Educativa Bertrand Russell]
