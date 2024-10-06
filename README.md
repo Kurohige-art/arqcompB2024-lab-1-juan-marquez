@@ -1,6 +1,6 @@
 # arqcompB2024-lab-1-juan-marquez
 
-# Currículum de [Juan Pablo Marquez]
+# Currículum de Juan Pablo Marquez
 
 ## Información Personal 
 _**Nombre Completo**: [Juan Pablo Marquez]
