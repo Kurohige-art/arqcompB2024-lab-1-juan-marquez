@@ -50,6 +50,6 @@
 - **Tecnologías Utilizadas**: Se utilizo el lenguaje de programación C#, los conocimientos de la POO (Programación Orientada a Objetos), Adobeillustrator para la creación de elementos visuales.
 
 ## Intereses
-_ **Programación de Videojuegos**
-_ **Programación IA**
-_ **Investigación sobre tecnología de computación cuántica***
+**Programación de Videojuegos**
+**Programación IA**
+**Investigación sobre tecnología de computación cuántica***
