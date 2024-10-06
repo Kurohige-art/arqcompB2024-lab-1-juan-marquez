@@ -52,4 +52,4 @@
 ## Intereses
 **Programación de Videojuegos**
 **Programación IA**
-**Investigación sobre tecnología de computación cuántica***
+**Investigación sobre tecnología de computación cuántica**
